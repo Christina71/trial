@@ -1,1 +1,3 @@
-
+I am configuring git on fred's computer
+The email id was not correct
+this will work
